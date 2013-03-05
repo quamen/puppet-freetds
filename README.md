@@ -1,4 +1,4 @@
-# Template Puppet Module for Boxen
+# Freetds Puppet Module for Boxen
 
 Installs freetds.
 
